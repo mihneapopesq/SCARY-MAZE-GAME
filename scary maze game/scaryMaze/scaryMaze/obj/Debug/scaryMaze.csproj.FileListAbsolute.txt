@@ -1,0 +1,22 @@
+C:\Users\Admin\Desktop\scaryMaze\scaryMaze\bin\Debug\scaryMaze.exe.config
+C:\Users\Admin\Desktop\scaryMaze\scaryMaze\bin\Debug\scaryMaze.exe
+C:\Users\Admin\Desktop\scaryMaze\scaryMaze\bin\Debug\scaryMaze.pdb
+C:\Users\Admin\Desktop\scaryMaze\scaryMaze\obj\Debug\scaryMaze.csproj.AssemblyReference.cache
+C:\Users\Admin\Desktop\scaryMaze\scaryMaze\obj\Debug\scaryMaze.Form1.resources
+C:\Users\Admin\Desktop\scaryMaze\scaryMaze\obj\Debug\scaryMaze.Properties.Resources.resources
+C:\Users\Admin\Desktop\scaryMaze\scaryMaze\obj\Debug\scaryMaze.Scare.resources
+C:\Users\Admin\Desktop\scaryMaze\scaryMaze\obj\Debug\scaryMaze.csproj.GenerateResource.cache
+C:\Users\Admin\Desktop\scaryMaze\scaryMaze\obj\Debug\scaryMaze.csproj.CoreCompileInputs.cache
+C:\Users\Admin\Desktop\scaryMaze\scaryMaze\obj\Debug\scaryMaze.exe
+C:\Users\Admin\Desktop\scaryMaze\scaryMaze\obj\Debug\scaryMaze.pdb
+C:\Users\Admin\Desktop\scary maze game\scaryMaze\scaryMaze\bin\Debug\scaryMaze.exe.config
+C:\Users\Admin\Desktop\scary maze game\scaryMaze\scaryMaze\bin\Debug\scaryMaze.exe
+C:\Users\Admin\Desktop\scary maze game\scaryMaze\scaryMaze\bin\Debug\scaryMaze.pdb
+C:\Users\Admin\Desktop\scary maze game\scaryMaze\scaryMaze\obj\Debug\scaryMaze.csproj.AssemblyReference.cache
+C:\Users\Admin\Desktop\scary maze game\scaryMaze\scaryMaze\obj\Debug\scaryMaze.Form1.resources
+C:\Users\Admin\Desktop\scary maze game\scaryMaze\scaryMaze\obj\Debug\scaryMaze.Properties.Resources.resources
+C:\Users\Admin\Desktop\scary maze game\scaryMaze\scaryMaze\obj\Debug\scaryMaze.Scare.resources
+C:\Users\Admin\Desktop\scary maze game\scaryMaze\scaryMaze\obj\Debug\scaryMaze.csproj.GenerateResource.cache
+C:\Users\Admin\Desktop\scary maze game\scaryMaze\scaryMaze\obj\Debug\scaryMaze.csproj.CoreCompileInputs.cache
+C:\Users\Admin\Desktop\scary maze game\scaryMaze\scaryMaze\obj\Debug\scaryMaze.exe
+C:\Users\Admin\Desktop\scary maze game\scaryMaze\scaryMaze\obj\Debug\scaryMaze.pdb
